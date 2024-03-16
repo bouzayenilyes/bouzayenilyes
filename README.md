@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 📄 Know about my experiences [ilyesbouzayen.vercel.app]
-
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
