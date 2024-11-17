@@ -11,7 +11,7 @@
 ## 💻 Technologies
 
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,rust,swift,dart,java,react,reactnative,astro,svelte,angular,vite,nextjs,nestjs,laravel,symfony,styledcomponents,tailwind,sass,materialui,supabase,mysql,mongodb,git,github,expressjs,vscode,figma&perline=7" />
+    <img src="https://skillicons.dev/icons?i=js,ts,rust,swift,dart,java,react,react native,astro,svelte,angular,vite,nextjs,nestjs,laravel,symfony,styledcomponents,tailwind,sass,materialui,supabase,mysql,mongodb,git,github,expressjs,vscode,figma&perline=7" />
   </a>
 
 <br/><br/>
