@@ -9,7 +9,8 @@
 </details>
 
 ## 💻 Technologies
-
+<div align="center">
  <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=js,ts,rust,zig,go,python,react,nextjs,nodejs,expressjs,nestjs,fastapi,htmx,angular,nuxtjs,tailwind,sass,materialui,threejs,supabase,mysql,wordpress,postgres,mongodb,redis,firebase,graphql,git,github,vscode,neovim,vim,figma,kubernetes,docker,jenkins,ansible,terraform,prometheus,aws,gcp,azure,linux,nginx,yarn,npm,pnpm,jest,cypress,babel,prisma,vercel,netlify,webpack,bash,grafana,ps,ai,ae,pr&perline=12" />
   </a>
+</div>
