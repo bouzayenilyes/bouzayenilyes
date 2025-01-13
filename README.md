@@ -11,5 +11,5 @@
 ## 💻 Technologies
 
  <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,ts,,rust,zig,go,python,react,nextjs,nodejs,expressjs,nestjs,fastapi,tailwind,sass,materialui,threejs,supabase,mysql,postgres,mongodb,redis,firebase,graphql,git,github,vscode,figma,kubernetes,docker,jenkins,ansible,terraform,prometheus,aws,gcp,azure,linux,nginx,yarn,npm,pnpm,jest,cypress,babel,prisma,vercel,netlify,webpack,bash,grafana&perline=12" />
+<img src="https://skillicons.dev/icons?i=js,ts,rust,zig,go,python,react,nextjs,nodejs,expressjs,nestjs,fastapi,tailwind,sass,materialui,threejs,supabase,mysql,postgres,mongodb,redis,firebase,graphql,git,github,vscode,figma,kubernetes,docker,jenkins,ansible,terraform,prometheus,aws,gcp,azure,linux,nginx,yarn,npm,pnpm,jest,cypress,babel,prisma,vercel,netlify,webpack,bash,grafana&perline=12" />
   </a>
