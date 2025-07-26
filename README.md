@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://ilyesbouzayen.dev">
-    <img src="./ilyes-banner.png" alt="Ilyes Bouzayen Banner"/>
+  <a href="https://bouzayenilyes.vercel.app">
+    <img src="https://f56mdiqn9v.ufs.sh/f/9LjNuV21boCh7xTDeHq0ERQkoa2x3AWGz7P16i5y4btmNBYC" alt="Ilyes Bouzayen Banner"/>
   </a>
 </div>
 
@@ -85,7 +85,7 @@
 # <p align="center">📫 Reach Me</p>
 
 <p align="center">
-  💼 <a href="https://ilyesbouzayen.dev">ilyesbouzayen.dev</a> • 
+  💼 <a href="https://bouzayenilyes.vercel.app">ilyesbouzayen.dev</a> • 
   📨 <a href="mailto:ilyes.bouzayen@outlook.com">ilyes.bouzayen@outlook.com</a> • 
   🌍 Sousse, Tunisia
 </p>
