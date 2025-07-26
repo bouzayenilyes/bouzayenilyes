@@ -10,7 +10,7 @@
   <a href="https://github.com/sponsors/bouzayenilyes">
     <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siGithubsponsors&subtitle=Support+my+work&size=square&rounded=24" />
   </a>
-  <a href="https://x.com/bouzayenilyes">
+  <a href="https://x.com/ilyesbouzayen">
     <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siX&subtitle=Code+Thoughts&size=square&rounded=24" />
   </a>
   <a href="https://discord.gg/neovimmer">
@@ -19,10 +19,10 @@
   <a href="https://www.linkedin.com/in/bouzayenilyes">
     <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siLinkedin&subtitle=Let’s+Connect&size=square&rounded=24" />
   </a>
-  <a href="https://www.reddit.com/user/bouzayenilyes">
+  <a href="https://www.reddit.com/user/Defiant_Cobbler_4480/">
     <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siReddit&subtitle=Dev+Discussions&size=square&rounded=24" />
   </a>
-  <a href="https://leetcode.com/bouzayenilyes">
+  <a href="https://leetcode.com/u/bouzayenilyes/">
     <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siLeetcode&subtitle=DSA+Challenges&size=square&rounded=24" />
   </a>
 </div>
