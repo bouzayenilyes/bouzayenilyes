@@ -7,11 +7,26 @@
 # <p align="center">💡Minimalist Full Stack Dev · Software Engineer · App Builder · DevOps Automator — I ship fast, scale clean, and type faster than my CI/CD runs.</p>
 
 <div align="center">
-  <a href="https://github.com/sponsors/bouzayenilyes"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siGithubsponsors&subtitle=Support+my+work&size=square&rounded=24" /></a>
-  <a href="https://www.youtube.com/@ilyesbouzayen"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siYoutube&subtitle=Terminal+Tips&size=square&rounded=24" /></a>
-  <a href="https://discord.gg/neovimmer"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siDiscord&subtitle=Dev+Community&size=square&rounded=24" /></a>
-  <a href="https://www.linkedin.com/in/bouzayenilyes"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siLinkedin&subtitle=Let’s+Connect&size=square&rounded=24" /></a>
+  <a href="https://github.com/sponsors/bouzayenilyes">
+    <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siGithubsponsors&subtitle=Support+my+work&size=square&rounded=24" />
+  </a>
+  <a href="https://x.com/bouzayenilyes">
+    <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siX&subtitle=Code+Thoughts&size=square&rounded=24" />
+  </a>
+  <a href="https://discord.gg/neovimmer">
+    <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siDiscord&subtitle=Dev+Community&size=square&rounded=24" />
+  </a>
+  <a href="https://www.linkedin.com/in/bouzayenilyes">
+    <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siLinkedin&subtitle=Let’s+Connect&size=square&rounded=24" />
+  </a>
+  <a href="https://www.reddit.com/user/bouzayenilyes">
+    <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siReddit&subtitle=Dev+Discussions&size=square&rounded=24" />
+  </a>
+  <a href="https://leetcode.com/bouzayenilyes">
+    <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siLeetcode&subtitle=DSA+Challenges&size=square&rounded=24" />
+  </a>
 </div>
+
 
 ---
 
