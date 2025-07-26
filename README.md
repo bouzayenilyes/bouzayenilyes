@@ -82,7 +82,7 @@
 
 <div align="center">
   <a href="https://buymeacoffee.com/bouzayenilyes">
-    <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siBuymeacoffee&subtitle=Your+Name+Here&size=square&rounded=24" />
+    <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siBuymeacoffee&subtitle=Ilyes Bouzayen&size=square&rounded=24" />
   </a>
 </div>
 
@@ -92,6 +92,6 @@
 
 <p align="center">
   💼 <a href="https://bouzayenilyes.vercel.app">ilyesbouzayen.dev</a> • 
-  📨 <a href="mailto:ilyes.bouzayen@outlook.com">ilyes.bouzayen@outlook.com</a> • 
+  📨 <a href="mailto:ilyes.bouzayen@hotmail.com">ilyes.bouzayen@hotmail.com</a> • 
   🌍 Sousse, Tunisia
 </p>
