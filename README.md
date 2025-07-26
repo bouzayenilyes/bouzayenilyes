@@ -9,7 +9,7 @@
 <div align="center">
   <a href="https://github.com/sponsors/bouzayenilyes"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siGithubsponsors&subtitle=Support+my+work&size=square&rounded=24" /></a>
   <a href="https://www.youtube.com/@ilyesbouzayen"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siYoutube&subtitle=Terminal+Tips&size=square&rounded=24" /></a>
-  <a href="https://discord.gg/devhub"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siDiscord&subtitle=Dev+Community&size=square&rounded=24" /></a>
+  <a href="https://discord.gg/neovimmer"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siDiscord&subtitle=Dev+Community&size=square&rounded=24" /></a>
   <a href="https://www.linkedin.com/in/bouzayenilyes"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siLinkedin&subtitle=Let’s+Connect&size=square&rounded=24" /></a>
 </div>
 
@@ -21,7 +21,7 @@
   <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siNextdotjs&subtitle=Next.js+for+UI&size=square&rounded=24" /></a>
   <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siGo&subtitle=Fast+Backends&size=square&rounded=24" /></a>
   <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siDocker&subtitle=CI/CD+Automations&size=square&rounded=24" /></a>
-  <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siNixos&subtitle=Immutable+Dev+Env&size=square&rounded=24" /></a>
+  <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siArchs&subtitle=Immutable+Dev+Env&size=square&rounded=24" /></a>
 </div>
 
 ---
