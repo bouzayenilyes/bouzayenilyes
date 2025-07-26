@@ -13,9 +13,6 @@
   <a href="https://x.com/ilyesbouzayen">
     <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siX&subtitle=Code+Thoughts&size=square&rounded=24" />
   </a>
-  <a href="https://discord.gg/neovimmer">
-    <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siDiscord&subtitle=Dev+Community&size=square&rounded=24" />
-  </a>
   <a href="https://www.linkedin.com/in/bouzayenilyes">
     <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siLinkedin&subtitle=Let’s+Connect&size=square&rounded=24" />
   </a>
