@@ -4,7 +4,7 @@
   </a>
 </div>
 
-# <p align="center">💡 I’m a minimalist full stack developer who builds fast and types faster</p>
+# <p align="center">💡Minimalist Full Stack Dev · Software Engineer · App Builder · DevOps Automator — I ship fast, scale clean, and type faster than my CI/CD runs.</p>
 
 <div align="center">
   <a href="https://github.com/sponsors/bouzayenilyes"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siGithubsponsors&subtitle=Support+my+work&size=square&rounded=24" /></a>
