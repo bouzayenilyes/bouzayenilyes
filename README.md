@@ -82,7 +82,7 @@
 
 <div align="center">
   <a href="https://buymeacoffee.com/bouzayenilyes">
-    <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siBuymeacoffee&subtitle=Ilyes Bouzayen&size=square&rounded=24" />
+    <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siBuymeacoffee&subtitle=Ilyes+Bouzayen&size=square&rounded=24" />
   </a>
 </div>
 
