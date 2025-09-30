@@ -30,17 +30,18 @@
 # <p align="center">🛠 My daily dev stack</p>
 
 <div align="center">
-  <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sisvelte&subtitle=Svelte+For+UI&size=square&rounded=24" /></a>
+
   <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siNextdotjs&subtitle=Next.js+for+UI&size=square&rounded=24" /></a>
   <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siTailwindcss&subtitle=TailwindCSS+For+UI&size=square&rounded=24" /></a>
   <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siReact&subtitle=React+Native+Mobile+UI&size=square&rounded=24" /></a>
   <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siPython&subtitle=Python+Scripting&size=square&rounded=24" /></a>
   <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siTypescript&subtitle=Type+Safe+TS&size=square&rounded=24" /></a>
-  <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siRust&subtitle=Blazing+Fast+Rust&size=square&rounded=24" /></a>
   <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siGo&subtitle=Fast+Backends&size=square&rounded=24" /></a>
   <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siDocker&subtitle=CI/CD+Automations&size=square&rounded=24" /></a>
   <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siKubernetes&subtitle=Cloud-Native+Infra&size=square&rounded=24" /></a>
   <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siArchlinux&subtitle=Arch+Linux+FTW&size=square&rounded=24" /></a>
+    <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siRust&subtitle=Blazing+Fast+Rust&size=square&rounded=24" /></a>
+    <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sisvelte&subtitle=Svelte+For+UI&size=square&rounded=24" /></a>
   <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siNodedotjs&subtitle=Node.js+Runtime&size=square&rounded=24" /></a>
   <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siNeovim&subtitle=Neovim+IDE&size=square&rounded=24" /></a>
 </div>
