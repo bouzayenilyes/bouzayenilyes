@@ -30,11 +30,11 @@
 # <p align="center">🛠 My daily dev stack</p>
 
 <div align="center">
-  <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siNextdotjs&subtitle=Svelte+for+UI&size=square&rounded=24" /></a>
-  <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siNextdotjs&subtitle=Express.js+for+UI&size=square&rounded=24" /></a>
-  <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siNextdotjs&subtitle=Node.js+for+UI&size=square&rounded=24" /></a>
+  <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sisvelte&subtitle=Svelte+For+UI&size=square&rounded=24" /></a>
+  <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siExpressdotjs&subtitle=Express.js+framwork&size=square&rounded=24" /></a>
   <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siNextdotjs&subtitle=Next.js+for+UI&size=square&rounded=24" /></a>
   <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siReact&subtitle=React+Native+Mobile+UI&size=square&rounded=24" /></a>
+    <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siNodedotjs&subtitle=Node.js+Runtime&size=square&rounded=24" /></a>
   <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siPython&subtitle=Python+Scripting&size=square&rounded=24" /></a>
   <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siTypescript&subtitle=Type+Safe+TS&size=square&rounded=24" /></a>
   <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siRust&subtitle=Blazing+Fast+Rust&size=square&rounded=24" /></a>
