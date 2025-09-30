@@ -31,9 +31,9 @@
 
 <div align="center">
   <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sisvelte&subtitle=Svelte+For+UI&size=square&rounded=24" /></a>
-  <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siExpressdotjs&subtitle=Express.js+framwork&size=square&rounded=24" /></a>
+  <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siExpressjs&subtitle=Express.js+framwork&size=square&rounded=24" /></a>
   <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siNextdotjs&subtitle=Next.js+for+UI&size=square&rounded=24" /></a>
-  <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sitailwindcss&subtitle=Tailwind+CSS+CSS+Framework&size=square&rounded=24" /></a>
+  <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siTailwindcss&subtitle=TailwindCSS+For+UI&size=square&rounded=24" /></a>
   <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siReact&subtitle=React+Native+Mobile+UI&size=square&rounded=24" /></a>
   <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siPython&subtitle=Python+Scripting&size=square&rounded=24" /></a>
   <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siTypescript&subtitle=Type+Safe+TS&size=square&rounded=24" /></a>
