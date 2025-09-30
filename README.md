@@ -42,6 +42,7 @@
   <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siDocker&subtitle=CI/CD+Automations&size=square&rounded=24" /></a>
   <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siKubernetes&subtitle=Cloud-Native+Infra&size=square&rounded=24" /></a>
   <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siArchlinux&subtitle=Arch+Linux+FTW&size=square&rounded=24" /></a>
+   <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siNeovim&subtitle=Neovim+IDE&size=square&rounded=24" /></a>
 </div>
 
 
