@@ -31,7 +31,6 @@
 
 <div align="center">
   <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sisvelte&subtitle=Svelte+For+UI&size=square&rounded=24" /></a>
-  <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siExpressjs&subtitle=Express.js+framwork&size=square&rounded=24" /></a>
   <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siNextdotjs&subtitle=Next.js+for+UI&size=square&rounded=24" /></a>
   <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siTailwindcss&subtitle=TailwindCSS+For+UI&size=square&rounded=24" /></a>
   <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siReact&subtitle=React+Native+Mobile+UI&size=square&rounded=24" /></a>
